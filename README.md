@@ -1,10 +1,3 @@
-<h1 align="center">About Tutu32BR</h1>
-<h1>Hello!</h1>
-<a>How are you?</a>
-<a>My name is Arthur, but you can call me Tutu32BR.</a>
-<a>I'm Brazilian!</a>
-<p>-> I'm starting my studies in programming.</p>
-<p>->I'm 15 years old and my hobby and personal goal is to develop my own video games.</p>
-<p>->Furthermore, I intend to work with programming when I am of age, working with desktop application development or data analysis.</p>
-<p>->Currently use Github to store and, when necessary, share code.</p>
-
+<h1>About me...</h1>
+<p>Hello,</p>
+<p>My name is Arthur, I'm 15 years old, I'm Brazilian (and let's be clear that I don't like football) and I'm starting with some projects involving programming. I preferably use the C# and Javascript languages ​​and have been doing this, for now as a hobby, but in the future, I intend to have a profession based in the same field.</p>
